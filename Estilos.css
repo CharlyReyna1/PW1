@@ -1,0 +1,70 @@
+div#contenedor{
+  background-color: grey;
+  width: 700px;
+  height: 900px;
+  margin: auto;
+}
+
+div#navegacion{
+  background-color: red;
+  width: 680px;
+  height: 100px;
+  margin: auto;
+}
+
+div#noticias{
+  background-color: yellow;
+  width: 200px;
+  height: 770px;
+  margin: 20px 0px 0px 10px;
+}
+
+div#contenido{
+  background-color: green;
+  width: 460px;
+  height: 770px;
+  margin: -770px 0px 0px 230px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+div#contenidoTitulo{
+  background-color: blue;
+  width: 440px;
+  height: 100px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+h2{
+  margin: 0px;
+  font-size: 70px;
+}
+
+h2:hover{
+  font-size: 90px;
+  color: red;
+}
+
+div#fotos{
+  background-color: orange;
+  width: 440px;
+  height: 400px;
+  margin-top: 10px;
+}
+
+img.fotosrandoms{
+  background-color: grey;
+  width: 125px;
+  height: 125px;
+  margin: 10px;
+}
+
+img.fotosrandoms:hover{
+  background-color: grey;
+  width: 125px;
+  height: 135px;
+}
